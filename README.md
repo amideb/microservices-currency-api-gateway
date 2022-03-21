@@ -25,7 +25,7 @@ Refer back to here if you have problems in the next steps.
 
 
 
-Initial
+### Initial
 
 - http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/INR
 
@@ -35,7 +35,7 @@ Initial
 
 
 
-Lower Case
+### Lower Case
 
 - http://localhost:8765/currency-exchange/currency-exchange/from/USD/to/INR
 
@@ -45,7 +45,7 @@ Lower Case
 
 
 
-Custom Routes
+### Custom Routes
 
 - http://localhost:8765/currency-exchange/from/USD/to/INR
 
